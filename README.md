@@ -11,14 +11,14 @@ ___
 
 **Preview:**
 
-1.) Here is an example of a simple 2048 app/game using only Matplotlib. (see the code in Examples/2048 App)
+1.) Here is an example of a simple 2048 app/game using only Matplotlib. (see the code in "Examples/2048 App")
 
 <img src="/demo_2048.gif"/>
 
-2.) Animation of Fourier series epicycles:
+2.) Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series Epicycle")
 
 <img src="/demo_fourier.gif"/>
 
-3.) Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in Examples/Sackboy Animation). I added a functionality such that everytime we click on the figure it will change the background color.
+3.) Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in "Examples/Sackboy Animation"). I added a functionality such that everytime we click on the figure it will change the background color.
 
 <img src="/demo_lbp.gif"/>
