@@ -1,3 +1,6 @@
+#Copyright Arief Anbiya (2019)
+#E-mail: anbarief@live.com
+
 import math
 import random
 
