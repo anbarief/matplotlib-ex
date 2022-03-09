@@ -18,6 +18,7 @@ ___
 2.) Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series Epicycle")
 
 <img src="/demo_fourier.gif"/>
+[Full video here](https://www.youtube.com/watch?v=qi7fc5pcbRY&list=PL48gowPA25i4Le_wV5v2WVxC66siojhcp&index=2 )
 
 3.) Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in "Examples/Sackboy Animation"). I added a functionality such that everytime we click on the figure it will change the background color.
 
