@@ -10,6 +10,6 @@ This repository contains (non-easy) examples of Matplotlib generated plots, anim
 <img src="/demo_01.gif"/>
 
 
-2.) Here is also an example of a simple 2048 app/game using only Matplotlib. (see the code in Examples/2048 Matplotlib)
+2.) Here is also an example of a simple 2048 app/game using only Matplotlib. (see the code in Examples/2048 App)
 
 <img src="/demo_02.gif"/>
