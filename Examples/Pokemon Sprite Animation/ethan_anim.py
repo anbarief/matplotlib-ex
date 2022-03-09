@@ -1,3 +1,6 @@
+Copyright Arief Anbiya (2021)
+E-mail: anbarief@live.com
+
 import random
 import math
 import matplotlib.pyplot as plt
