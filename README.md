@@ -1,10 +1,6 @@
 ### Matplotlib Gallery
 
-This repository contains (non-easy) examples of Matplotlib generated plots, animations, and applications (will mostly in mathematics and applied mathematics area). The examples here are not intended for beginners, although beginners might understand them.
-
-
-
-
+This repository contains (non-easy) examples of Matplotlib generated plots, animations, and applications (will mostly in mathematics and applied mathematics area). 
 
 ___
 
