@@ -1,6 +1,6 @@
 ### Matplotlib Gallery
 
-This repository contains (non-easy) examples of Matplotlib generated plots, animations, and applications (will mostly in mathematics and applied mathematics area). The documentation for each code is still in progress. I am the author of all the code here (unless stated otherwise). Feel free to contact me at anbarief@live.com
+This repository contains (non-easy) examples of Matplotlib generated plots, animations, and applications (will mostly in mathematics and applied mathematics area). The documentation for each code is still in progress. I am the author of all the code here (unless stated otherwise). Feel free to contact me at anbarief@live.com.
 
 ___
 
