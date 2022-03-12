@@ -18,7 +18,15 @@ Here is an example of a simple 2048 app/game using only Matplotlib. (see the cod
 
 ___
 
-- (2) 
+- (2)
+
+A plot of 2-step sequence of 4-digit positive integer Kaprekar routine. The Kaprekar routine for 4-digit positive integer always converge to the number 6174, or Kaprekar's constant. (provided that not all digits are the same) 
+
+<img src="/demo_kaprekar.png"/>
+
+___
+
+- (3) 
 Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series Epicycle")
 
 <img src="/demo_fourier.gif"/>
@@ -27,7 +35,7 @@ Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series
 
 ___
 
-- (3) 
+- (4) 
 Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in "Examples/Sackboy Animation"). I added a functionality such that everytime we click on the figure it will change the background color.
 
 <img src="/demo_lbp.gif"/>
