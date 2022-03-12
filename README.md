@@ -29,7 +29,7 @@ Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series
 
 <img src="/demo_fourier.gif"/>
 
-<a href="www.youtube.com/watch?v=qi7fc5pcbRY&list=PL48gowPA25i4Le_wV5v2WVxC66siojhcp&index=2">Full video here<a>
+<a href="https://www.youtube.com/watch?v=qi7fc5pcbRY">Full video here<a>
 
 ___
 
