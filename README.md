@@ -9,7 +9,7 @@ ___
 
 - (1)
 
-Plotting the Bias-Variance trade off of a Regression Tree model to predict the data resembling $latex x^2$
+Plotting the Bias-Variance trade off of a Regression Tree model to predict the data resembling x^2. (see the code in "Examples/Bias Variance Regression Tree")
 
 <img src="/demo_bias_variance.png"/>
 
