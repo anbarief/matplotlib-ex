@@ -1,6 +1,6 @@
 ### Matplotlib Gallery
 
-This repository contains my examples of Matplotlib generated plots, animations, and applications (will mostly in mathematics and applied mathematics area). The documentation for each code is still in progress. I am the author of all the code here (unless stated otherwise). Some examples also require dataset files, which are already available in the folder except for large size dataset files. Some examples also require other external libraries such as **Pandas** and **Numpy**. Feel free to contact me at anbarief@live.com.
+This repository contains my examples of Matplotlib generated plots, animations, and applications (will mostly in mathematics and applied mathematics area). The documentation for each code is still in progress. I am the author of all the code here (unless stated otherwise). Some examples also require dataset files, which are already available in the folder except for large size dataset files. Some examples also require other external libraries such as **Pandas**, **Numpy**, and **Scikit-learn**. Feel free to contact me at anbarief@live.com.
 
 ___
 
