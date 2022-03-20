@@ -51,6 +51,6 @@ ___
   
 - (6)
 
-A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected from Yahoo finance.
+A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected from Yahoo finance. (see Examples/Stock Price Candle Chart)
   
 <img src="/demo_candlechart.png"/>
