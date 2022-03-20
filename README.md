@@ -46,3 +46,10 @@ ___
 Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in "Examples/Sackboy Animation"). I added a functionality such that everytime we click on the figure it will change the background color.
 
 <img src="/demo_lbp.gif"/>
+
+___
+  
+- (6)
+  
+  
+<img src="/demo_candlechart.png"/>
