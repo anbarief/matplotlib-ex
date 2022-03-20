@@ -18,6 +18,7 @@ def candle_obj(open_price, close_price, x_pos):
     candle = Rectangle([x_pos-width, min(close_price, open_price)], 0.6, abs(diff), color = color)
     return candle
 
+#function to plot the candle stick for a particular day
 def plot_day(ax, x_pos, open_price, close_price, high, low):
     candle_patch = candle_obj(open_price, close_price, x_pos)
     ax.plot([x_pos, x_pos], [low, high], '-', lw = 1, color = 'black', zorder=0)
