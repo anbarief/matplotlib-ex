@@ -50,6 +50,7 @@ Here is an example of an animation made using only Matplotlib, about the Little 
 ___
   
 - (6)
-  
+
+A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected from Yahoo finance.
   
 <img src="/demo_candlechart.png"/>
