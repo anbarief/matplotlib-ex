@@ -1,8 +1,6 @@
 #Author: Arief Anbiya (2022)
 #E-mail: anbarief@live.com
 
-import math
-PI = math.pi; cos = math.cos; sin = math.sin
 import statistics
 mean = statistics.mean
 import pandas as pd
