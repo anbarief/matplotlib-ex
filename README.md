@@ -1,4 +1,4 @@
-### Matplotlib-Ex 
+### Matplotlib-EX 
 
 This repository contains my examples of Matplotlib generated plots, animations, and applications (will mostly in mathematics and applied mathematics area). The documentation for each code is still in progress. I am the author of all the code here (unless stated otherwise). Some examples also require dataset files, which are already available in the folder except for large size dataset files. Some examples also require other external libraries such as **Pandas**, **Numpy**, and **Scikit-learn**. Feel free to contact me at anbarief@live.com.
 
@@ -15,7 +15,15 @@ Plotting the Bias-Variance trade off of a Regression Tree model to predict the d
 
 ___
 
-- (2) 
+- (2)
+
+Gundam MS-08 interactive animation. (see the code in "Examples/Gundam Interactive Animation"
+
+<img src="/demo_gundam.gif"/>
+
+___
+
+- (3) 
 
 Here is an example of a simple 2048 app/game using only Matplotlib. (see the code in "Examples/2048 App")
 
@@ -23,7 +31,7 @@ Here is an example of a simple 2048 app/game using only Matplotlib. (see the cod
 
 ___
 
-- (3)
+- (4)
 
 A plot of 2-step sequence of 4-digit positive integer Kaprekar routine. The Kaprekar routine for 4-digit positive integer always converge to the number 6174, or Kaprekar's constant. (provided that not all digits are the same) 
 
@@ -31,7 +39,7 @@ A plot of 2-step sequence of 4-digit positive integer Kaprekar routine. The Kapr
 
 ___
 
-- (4) 
+- (5) 
 
 Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series Epicycle")
 
@@ -40,17 +48,18 @@ Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series
 <a href="https://www.youtube.com/watch?v=qi7fc5pcbRY">Full video here<a>
 
 ___
-
-- (5) 
-
-Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in "Examples/Sackboy Animation"). I added a functionality such that everytime we click on the figure it will change the background color.
-
-<img src="/demo_lbp.gif"/>
-
-___
   
 - (6)
 
 A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected from Yahoo finance. (see Examples/Stock Price Candle Chart)
   
 <img src="/demo_candlechart.png"/>
+  
+___
+
+- (7) 
+
+Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in "Examples/Sackboy Animation"). I added a functionality such that everytime we click on the figure it will change the background color.
+
+<img src="/demo_lbp.gif"/>
+
