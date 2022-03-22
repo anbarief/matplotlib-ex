@@ -17,7 +17,7 @@ ___
 
 - (2)
 
-Gundam MS-08 interactive animation. (see the code in "Examples/Gundam Interactive Animation"
+Gundam MS-08 interactive animation. (see the code in "Examples/Gundam Interactive Animation")
 
 <img src="/demo_gundam.gif"/>
 
