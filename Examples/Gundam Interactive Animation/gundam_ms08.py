@@ -92,7 +92,7 @@ class Gundam(object):
     def move_right(self, event):
         self.pos[0] += 3
         if not inbound(self.pos):
-            self.pos[0] += -3
+            self.pos[0] += -4
         self.set_pos(*self.pos)
         self.thruster.move_right()
         self.rifle_effect.set_pos(*self.pos)
@@ -100,7 +100,7 @@ class Gundam(object):
     def move_left(self, event):
         self.pos[0] += -3
         if not inbound(self.pos):
-            self.pos[0] += 3
+            self.pos[0] += 4
         self.set_pos(*self.pos)
         self.thruster.move_left()
         self.rifle_effect.set_pos(*self.pos)
@@ -108,7 +108,7 @@ class Gundam(object):
     def move_up(self, event):
         self.pos[1] += 2
         if not inbound(self.pos):
-            self.pos[1] += -2
+            self.pos[1] += -3
         self.set_pos(*self.pos)
         self.thruster.move_up()
         self.rifle_effect.set_pos(*self.pos)
@@ -116,7 +116,7 @@ class Gundam(object):
     def move_down(self, event):
         self.pos[1] += -2
         if not inbound(self.pos):
-            self.pos[1] += 2
+            self.pos[1] += 3
         self.set_pos(*self.pos)
         self.thruster.move_down()
         self.rifle_effect.set_pos(*self.pos)
