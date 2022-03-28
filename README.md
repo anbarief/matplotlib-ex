@@ -33,9 +33,9 @@ ___
 
 - (4) 
 
-Here is an example of a simple 2048 app/game using only Matplotlib. (see the code in "Examples/2048 App")
-
-<img src="/demo_2048.gif"/>
+A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected from Yahoo finance. (see Examples/Stock Price Candle Chart)
+  
+<img src="/demo_candlechart.png"/>
 
 ___
 
@@ -59,9 +59,9 @@ ___
   
 - (7)
 
-A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected from Yahoo finance. (see Examples/Stock Price Candle Chart)
-  
-<img src="/demo_candlechart.png"/>
+Here is an example of a simple 2048 app/game using only Matplotlib. (see the code in "Examples/2048 App")
+
+<img src="/demo_2048.gif"/>
   
 ___
 
