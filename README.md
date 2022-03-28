@@ -9,7 +9,7 @@ ___
 
 - (1)
 
-My submission in the WDVP 2019 (World Data Visualization Prize). The `wdvp_squares_model.py` generates the pdf file, `wdvp_squares.pdf`, of the visualization (using `fig.show` will get different text size). The pdf file can be seen here: [](LINK) 
+This is my submission in the WDVP 2019 (World Data Visualization Prize). The `wdvp_squares_model.py` generates the pdf file, `wdvp_squares.pdf`, of the visualization (using `fig.show` will get different text size). See the code and the pdf file here: "Examples/World Data Visualization Prize 2019/"
 
 <img src="/demo_wdvp_1.PNG"/>
 <img src="/demo_wdvp_2.PNG"/>
