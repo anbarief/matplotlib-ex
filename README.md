@@ -11,9 +11,9 @@ ___
 
 My submission in the WDVP 2019 (World Data Visualization Prize). The `wdvp_squares_model.py` generates the pdf file, `wdvp_squares.pdf`, of the visualization (using `fig.show` will get different text size). The pdf file can be seen here: [](LINK) 
 
-<img src="/demo_wdvp_1.png"/>
-<img src="/demo_wdvp_2.png"/>
-<img src="/demo_wdvp_3.png"/>
+<img src="/demo_wdvp_1.PNG"/>
+<img src="/demo_wdvp_2.PNG"/>
+<img src="/demo_wdvp_3.PNG"/>
 
 - (2)
 
