@@ -1,3 +1,6 @@
+#Author: Arief Anbiya (2019)
+#E-mail: anbarief@live.com
+
 import random
 import copy
 import matplotlib.pyplot as plt
