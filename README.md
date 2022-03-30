@@ -23,7 +23,16 @@ Plotting the Bias-Variance trade off of a Regression Tree model to predict the d
 
 ___
 
-- (3)
+- (3) 
+
+Plotting CO2 emission per capita of G7 countries, data collected from: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
+
+(see the code in "Examples/CO2 Emission by G7")
+
+<img src="/demo_co2_emission_line.png"/>
+
+
+- (4)
 
 Gundam MS-08 interactive animation. (see the code in "Examples/Gundam Interactive Animation")
 
@@ -31,7 +40,7 @@ Gundam MS-08 interactive animation. (see the code in "Examples/Gundam Interactiv
 
 ___
 
-- (4) 
+- (5) 
 
 A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected from Yahoo finance. (see Examples/Stock Price Candle Chart)
   
@@ -39,7 +48,7 @@ A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected fro
 
 ___
 
-- (5)
+- (6)
 
 A plot of 2-step sequence of 4-digit positive integer Kaprekar routine. The Kaprekar routine for 4-digit positive integer always converge to the number 6174, or Kaprekar's constant. (provided that not all digits are the same) 
 
@@ -47,7 +56,7 @@ A plot of 2-step sequence of 4-digit positive integer Kaprekar routine. The Kapr
 
 ___
 
-- (6) 
+- (7) 
 
 Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series Epicycle")
 
@@ -57,7 +66,7 @@ Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series
 
 ___
   
-- (7)
+- (8)
 
 Here is an example of a simple 2048 app/game using only Matplotlib. (see the code in "Examples/2048 App")
 
@@ -65,7 +74,7 @@ Here is an example of a simple 2048 app/game using only Matplotlib. (see the cod
   
 ___
 
-- (8) 
+- (9) 
 
 Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in "Examples/Sackboy Animation"). I added a functionality such that everytime we click on the figure it will change the background color.
 
