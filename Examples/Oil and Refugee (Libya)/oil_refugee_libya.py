@@ -1,3 +1,6 @@
+#author: Arief Anbiya (2022)
+#e-mail: anbarief@live.com
+
 import matplotlib.pyplot as plt
 from matplotlib import font_manager
 import pandas
