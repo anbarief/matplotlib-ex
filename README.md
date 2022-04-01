@@ -19,7 +19,7 @@ ___
 
 * (2)
 
-A data visualization of Libya refugee population and oil production. Data source is https://ourworldindata.org/country/libya. The plot is generated using Matplotlib only, without any edit. 
+A data visualization of Libya refugee population and oil production. Data source is https://ourworldindata.org/country/libya. The plot is generated using Matplotlib only, without any edit. (see the code in "Examples/Oil and Refugee (Libya)/")
 
 <img src="/demo_oil_refugee.png"/>
 
