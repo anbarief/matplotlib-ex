@@ -9,7 +9,7 @@ ___
 
 - **(1)**
 
-This is my submission in the WDVP 2019 (World Data Visualization Prize). The `wdvp_squares_model.py` generates the pdf file, `wdvp_squares.pdf`, withut plotting the visualization (because using `fig.show` will get different text size in comparison to the saved plot in pdf format). See the code and the pdf file here: "Examples/World Data Visualization Prize 2019/"
+This is my submission in the WDVP 2019 (World Data Visualization Prize). The `wdvp_squares_model.py` generates the pdf file, `wdvp_squares.pdf`, without plotting the visualization (because using `fig.show` will get different text size in comparison to the saved plot in pdf format). See the code and the pdf file here: "Examples/World Data Visualization Prize 2019/"
 
 <img src="/demo_wdvp_1.PNG"/>
 <img src="/demo_wdvp_2.PNG"/>
