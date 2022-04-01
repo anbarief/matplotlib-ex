@@ -2,7 +2,7 @@
 
 This repository contains my examples of Matplotlib generated plots, ***data visualizations***, ***animations***, and ***applications*** (animations and applications probably around mathematics and applied mathematics area). The examples range from easy to difficult. I am the author of all the code here (unless stated otherwise). Some examples also require dataset files, which are already available in the folder except for large size dataset files. Some examples also require other external libraries such as **Pandas**, **Numpy**, and **Scikit-learn**. Feel free to contact me at anbarief@live.com.
 
-*The documentation for each code is still in progress. (contributions are welcomed)
+(*The documentation for each code is still in progress. Contributions are welcomed.*)
 
 ___
 
