@@ -1,13 +1,13 @@
 ### Matplotlib-EX 
 
-This repository contains my examples of Matplotlib generated plots, data visualizations, animations, and applications (will mostly in mathematics and applied mathematics area). The examples range from easy to difficult. The documentation for each code is still in progress. I am the author of all the code here (unless stated otherwise). Some examples also require dataset files, which are already available in the folder except for large size dataset files. Some examples also require other external libraries such as **Pandas**, **Numpy**, and **Scikit-learn**. Feel free to contact me at anbarief@live.com.
+This repository contains my examples of Matplotlib generated plots, ***data visualizations***, ***animations***, and ***applications*** (animations and applications probably around mathematics and applied mathematics area). The examples range from easy to difficult. The documentation for each code is still in progress. I am the author of all the code here (unless stated otherwise). Some examples also require dataset files, which are already available in the folder except for large size dataset files. Some examples also require other external libraries such as **Pandas**, **Numpy**, and **Scikit-learn**. Feel free to contact me at anbarief@live.com.
 
 ___
 
 
 **Preview:**
 
-- **(1)**
+* (1)
 
 This is my submission in the WDVP 2019 (World Data Visualization Prize). The `wdvp_squares_model.py` generates the pdf file, `wdvp_squares.pdf`, without plotting the visualization (because using `fig.show` will get different text size in comparison to the saved plot in pdf format). See the code and the pdf file here: "Examples/World Data Visualization Prize 2019/"
 
@@ -17,7 +17,15 @@ This is my submission in the WDVP 2019 (World Data Visualization Prize). The `wd
 
 ___
 
-- **(2)**
+* (2)
+
+A data visualization of Libya refugee population and oil production. Data source is https://ourworldindata.org/country/libya. The plot is generated using Matplotlib only, without any edit. 
+
+<img src="/demo_oil_refugee.png"/>
+
+___
+
+* (3)
 
 Plotting the Bias-Variance trade off of a Regression Tree model to predict the data resembling x^2. (see the code in "Examples/Bias Variance Regression Tree")
 
@@ -25,7 +33,7 @@ Plotting the Bias-Variance trade off of a Regression Tree model to predict the d
 
 ___
 
-- **(3)**
+* (4)
 
 Plotting CO2 emission per capita of G7 countries, data collected from: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
@@ -35,7 +43,7 @@ Plotting CO2 emission per capita of G7 countries, data collected from: https://o
 
 ___
 
-- **(4)**
+* (5)
 
 Gundam MS-08 interactive animation. (see the code in "Examples/Gundam Interactive Animation")
 
@@ -43,7 +51,7 @@ Gundam MS-08 interactive animation. (see the code in "Examples/Gundam Interactiv
 
 ___
 
-- **(5)**
+* (6)
 
 A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected from Yahoo finance. (see Examples/Stock Price Candle Chart)
   
@@ -51,7 +59,7 @@ A candle chart plot of BBRI (Bank BRI Indonesia) stock price, data collected fro
 
 ___
 
-- **(6)**
+* (7)
 
 A plot of 2-step sequence of 4-digit positive integer Kaprekar routine. The Kaprekar routine for 4-digit positive integer always converge to the number 6174, or Kaprekar's constant. (provided that not all digits are the same) 
 
@@ -59,7 +67,7 @@ A plot of 2-step sequence of 4-digit positive integer Kaprekar routine. The Kapr
 
 ___
 
-- **(7)**
+* (8)
 
 Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series Epicycle")
 
@@ -69,7 +77,7 @@ Animation of Fourier series epicycles: (see the code in "Examples/Fourier Series
 
 ___
   
-- **(8)**
+* (9)
 
 Here is an example of a simple 2048 app/game using only Matplotlib. (see the code in "Examples/2048 App")
 
@@ -77,7 +85,7 @@ Here is an example of a simple 2048 app/game using only Matplotlib. (see the cod
   
 ___
 
-- **(9)**
+* (10)
 
 Here is an example of an animation made using only Matplotlib, about the Little Big Planet character Sackboy (see the code in "Examples/Sackboy Animation"). I added a functionality such that everytime we click on the figure it will change the background color.
 
